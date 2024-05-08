@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/9472095/52746593-c7529e80-2fd9-11e9-96a9-06c8f077d2c3.png"/>]
+<img src="https://user-images.githubusercontent.com/9472095/52746593-c7529e80-2fd9-11e9-96a9-06c8f077d2c3.png"/>
 ## Описание
 * * *
 Создание ВМ с помощью Vagrant. 
